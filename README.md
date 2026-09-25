@@ -1,0 +1,2 @@
+# StockRoom_Architecture_Specification
+StockRoom Inventory Platform
